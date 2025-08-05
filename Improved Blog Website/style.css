@@ -105,3 +105,28 @@ li, a:hover{
 .about-5 p{
     font-size: 20px;
 }
+
+/*Section 6 of About-page*/
+.about-6{
+    background-color: #333446;
+    padding: 10%;
+    color: white;
+}
+.about-6 h3{
+    font-size: 60px;
+}
+.about-6 p{
+    font-size: 20px;
+}
+
+/*Section 7 of About-page*/
+.about-7{
+    background-color: #FFD586;
+    padding: 10%;
+}
+.about-7 h3{
+    font-size: 60px;
+}
+.about-7 p{
+    font-size: 20px;
+}
