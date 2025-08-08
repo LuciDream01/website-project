@@ -30,7 +30,7 @@ ul, a{
 li, a:hover{
     background-color: #555;
 }
-.Introduction-home{
+#Introduction-home{
     margin-top: 0px;
     padding: 15%;
 }
