@@ -134,4 +134,72 @@ li, a:hover{
     font-size: 20px;
 }
 
+
+/*Gallery Blog*/
+.image-gal{
+    background-color:#273F4F;
+    overflow:hidden;
+    padding: 50px;
+}
+
+#img-1{
+    width: 500px;
+    height: 500px;
+    float: right;
+    border: 1px solid black;
+    border-radius: 25px;
+    box-shadow: 10px, 10px;
+    
+}
+.img-1-description{
+    text-align: center;
+}
+
+
+
+
+
+
+
 /*Contacts Page */
+#section-contacts{
+    background-color:black;
+    text-align: center;
+    color: white;
+    padding: 100px;
+}
+.contact-form{
+    background-color: #273F4F;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 60px;
+    width: 550px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.Submit-btn{
+    padding: 15px;
+    width: 460px;
+    background-color: #80ff00;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+
+
+/*Footer Sextion*/
+footer{
+    background-color: white;
+    padding: 50px;
+    margin-left: 25px;
+    text-align: center;
+}
+footer a {
+    background-color: white;
+    text-decoration: none;
+    color: black;
+}
+footer a:hover{
+    background: none;
+}
